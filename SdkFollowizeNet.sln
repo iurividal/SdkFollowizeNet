@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdkFollowizeNet", "SdkFollowizeNet\SdkFollowizeNet.csproj", "{A204505C-52FD-4A87-BCC2-3FE8ED11B889}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SdkFollowizeNet", "SdkFollowizeNet\SdkFollowizeNet.csproj", "{A204505C-52FD-4A87-BCC2-3FE8ED11B889}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdkFollowizeNet_Teste", "SdkFollowizeNet_Teste\SdkFollowizeNet_Teste.csproj", "{2BC0E7F0-F11D-4C4F-A34A-185D4832FE2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SdkFollowizeNet_Teste", "SdkFollowizeNet_Teste\SdkFollowizeNet_Teste.csproj", "{2BC0E7F0-F11D-4C4F-A34A-185D4832FE2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
