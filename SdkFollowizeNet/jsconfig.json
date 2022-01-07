@@ -1,0 +1,20 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ClienteKey": "Sua chave aqui",
+  "Teamkey": [
+    {
+      "Empresa1": 123,
+      "Empresa2": 456
+
+    }
+  ]
+
+
+}
